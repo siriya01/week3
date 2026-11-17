@@ -5,10 +5,6 @@ import viteLogo from './assets/vite.svg'
 import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
-<section id="center">
-
-</section>
-
 <div class="ticks"></div>
 
 <section id="next-steps">
