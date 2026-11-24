@@ -1,6 +1,3 @@
-export function AdminPage() {
-  return `
-    <h1 class="text-3xl font-bold text-slate-900">หน้าแอดมิน</h1>
-    <p class="mt-2 text-slate-600">จัดการข้อมูลเว็บไซต์</p>
-  `
+export function HomePage() {
+  return `<h1 class="text-3xl font-bold">หน้าแรก</h1>`
 }
