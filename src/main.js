@@ -1,4 +1,4 @@
-import { HomePage } from ''./pages/home.js''
+import { HomePage } from './pages/home.js'
 import { AdminPage } from './pages/admin.js'
 
 const routes = {
