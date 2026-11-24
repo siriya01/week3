@@ -1,5 +1,5 @@
-import { HomePage } from './src/home.js'
-import { AdminPage } from './src/admin.js'
+import { HomePage } from './pages/home.js'
+import { AdminPage } from './pages/admin.js'
 
 const routes = {
   '/': HomePage,
